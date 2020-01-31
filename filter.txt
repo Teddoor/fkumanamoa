@@ -4,3 +4,6 @@
 
 ##div.widget-box > .ad-banner-widget
 ##div.main-banner.ad-banner-widget
+###hd_pop
+##div.widget-box:nth-of-type(6)
+##div.div-title-underbar:nth-of-type(5)
