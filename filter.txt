@@ -2,6 +2,14 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/penit25/fkumanamoa/
 
+||manamoa.net/img/banner
+||manamoa27.net/img/banner
+||i.imgur.com/660um5J.gif$image
+||img.ironmancdn.xyz/upload/9eae72045afdc5e3fe0637250f5e2001.png$image
+||i.imgur.com/2rmXmpi.gif$image
+||i.imgur.com/AW0Apqy.gif$image
+
+
 ##div.widget-box > .ad-banner-widget
 ##div.main-banner.ad-banner-widget
 ###hd_pop
@@ -9,3 +17,4 @@
 ##div.div-title-underbar:nth-of-type(5)
 ##li.off.menu-li:nth-of-type(5)
 ##.clearfix > li:nth-of-type(4)
+
