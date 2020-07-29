@@ -2,8 +2,8 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/penit25/fkumanamoa/
 
-||manamoa51.net/thema/Basic/widget/ad-banner/widget.css
-||manamoa51.net/img/banner
+||manamoa52.net/thema/Basic/widget/ad-banner/widget.css
+||manamoa52.net/img/banner
 ||manamoa.net/thema/Basic/widget/ad-banner/widget.css
 ||manamoa.net/img/banner
 
