@@ -28,6 +28,3 @@ jmana.net###main_popup
 
 !manatoki
 
-##.col-sm-9.col-md-9.col-15 > .row-15.row
-##div.row-15.row:nth-of-type(2) > .col-md-9.col-15
-##li:nth-of-type(4) > [href="/guarantee.php"]
