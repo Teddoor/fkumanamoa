@@ -36,4 +36,3 @@ jmana.net###main_popup
 
 ||booktoki*.com/data/banner^
 ||booktoki*.com/tokinbtoki/*.gif?_=*$image
-
