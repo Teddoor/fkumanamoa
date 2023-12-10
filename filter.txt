@@ -28,6 +28,13 @@ jmana.net###main_popup
 
 !manatoki
 
-||manatoki*.net/data/banner/*$image
-||manatoki*.net/data/banner/*?_=*$image
-||manatoki*.net/data/banner/*?_=*$image
+||manatoki*.net/data/banner^
+||manatoki*.net/tokinbtoki/*.gif?_=*$image
+
+
+!booktoki
+
+||booktoki*.com/data/banner^
+||booktoki*.com/tokinbtoki/*.gif?_=*$image
+
+booktoki318.com##[src*=".gif"]
