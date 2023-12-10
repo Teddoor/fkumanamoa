@@ -1,3 +1,3 @@
 # fkutoki
 
-https://raw.github.com/Teddoor/fkumanamoa/master/filter.txt
+https://raw.github.com/Teddoor/fkutokiz/master/filter.txt
