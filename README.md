@@ -2,5 +2,4 @@
 
 https://raw.github.com/penit25/fkumanamoa/master/filter.txt 
 
-Subscribe this link
-I don't know how to make subscription link
+https://raw.github.com/Teddoor/fkumanamoa/master/filter.txt
