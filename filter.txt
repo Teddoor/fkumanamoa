@@ -38,3 +38,9 @@ jmana.net###main_popup
 ||booktoki*.com/tokinbtoki/*.gif?_=*$image
 
 booktoki.com##[src*=".gif"]
+
+!yadongtube
+||yadongtube.net/data/banner^
+||yadongtube.net/tokinbtoki/*.gif?_=*$image
+
+yadongtube.net##[src*=".gif"]
