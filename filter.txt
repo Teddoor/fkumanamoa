@@ -44,3 +44,7 @@ booktoki.com##[src*=".gif"]
 ||yadongtube.net/tokinbtoki/*.gif?_=*$image
 
 yadongtube.net##[src*=".gif"]
+
+!dcincide
+||json2.dcinside.com/json0/app_ad_setting.php^
+||app.dcinside.com/api/_ad_search_link*.php^
